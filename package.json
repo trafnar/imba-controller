@@ -1,11 +1,10 @@
 {
   "name": "imba-controller",
-  "version": "1.0.1",
+  "repository": "github:trafnar/imba-controller",
+  "version": "1.0.2",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "tsc index.ts"
-  },
+  "main": "index.ts",
+  "scripts": {},
   "keywords": [],
   "author": "Nathan Manousos",
   "license": "MIT",
